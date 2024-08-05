@@ -1,1 +1,13 @@
-[]
+        
+[
+  {
+    "patchName": "Settings for YouTube Music",
+    "options": [
+      {
+        "key": "RVXSettingsMenuName",
+        "value": "Premium Settings"
+      }
+    ]
+  }
+]
+        
